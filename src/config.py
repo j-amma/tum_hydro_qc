@@ -41,6 +41,8 @@ FINAL_OUTPUT_HEADER = ['date_time(UTC:PDT+7)', 'raw_pressure(cm)', 'barocorrecte
 NCAR_TUM_LAT = 37.5 # degrees N
 NCAR_TUM_LON = 240 # degrees e
 
+TUM_ELEVATION = 2627 # m
+
 ANOMOLY_FLAG = 1
 ICEJAM_FLAG = 2
 MALFUNCTION_FLAG = 3
